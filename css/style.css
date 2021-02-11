@@ -343,15 +343,12 @@ form a{
 border-radius: 5px;
     background-color:#c9a131;
     color: white;
-    font-size: 18px;
-    
+    font-size: 18px;  
 }
 form span{
-    
-    display: block;
-      
-    margin:0px 28%;
-          margin-top: 40px;
+    display: block;   
+    margin:0px 24%;
+    margin-top: 40px;
 }
 .contact_us{
        background: url(../image/banner04.jpg);
