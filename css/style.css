@@ -1,0 +1,419 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+body{
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Yeseva One', cursive;
+font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,span{
+    padding: 0;
+    margin: 0;
+}
+a,a:hover{
+    text-decoration: none;
+}
+
+.navbar-nav .nav-item .nav-link{
+
+ color: #4e4e4e;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 700;
+   font-family: 'Gentium Book Basic', serif;
+    text-transform: capitalize;
+  color:white;
+}
+.navbar-nav .nav-item .nav-link.active{
+    color:#ffffff;
+   
+}
+
+.menu{
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    padding-bottom: 180px;   
+  
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: #000000;
+}
+.navbar-brand,.navbar{
+    padding: 0;
+}
+.navbar-nav .nav-item .icon{
+    padding: 10px 5px;
+    color:#dab33e;
+}
+.navbar-nav .nav-item .icon:hover{
+    color: white;
+}
+.text_content{
+    text-align: center;
+    color: white;
+    width: 80%;
+       margin: auto;
+    margin-top: 100px;
+}
+.text_content h1{
+    font-size: 90px;
+    font-family: 'Yeseva One', cursive;
+}
+.text_content a{
+    background: rgba(0,0,0,.5);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 18px 50px;
+    color: white;
+    margin:0px 15px;
+     border:1px solid transparent;
+       transition: all linear .3s;
+}
+.text_content a:hover{
+    box-shadow: ;
+       background: rgba(0,0,0,.7);
+    color: white;
+    font-weight: bold;
+    border:1px solid black;
+    transition: all linear .3s;
+}
+.text_content .colors{
+        background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin:0px 15px;
+    border: 1px solid #eae2c3;
+}
+.text_content img{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.text_image{
+    text-align: center;
+    margin-top: 40px;
+}
+.text_image p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #4c4c4c;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    
+}
+.text_image h3{
+    font-size: 36px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+    color: #cc9900;
+    margin-bottom: 16px;
+}
+.text_image img{
+    transition: all linear .3s;
+}
+.text_image img:hover{
+    transform: scale(1.1);
+    transition: all linear .3s;
+}
+.banner_part{
+        background: url(../image/dishbackground.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding: 60px 0px;
+}
+.banner_part:hover{
+    box-shadow: 5px 5px 50px black;
+    transition: all linear .3s;
+}
+.third_banner{
+       background: url(../image/banner02.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding: 80px 0px;
+}
+.third_content{
+background-color: rgba(0,0,0,.5);
+    width: 560px;
+    text-align: center;
+    padding: 60px 60px;
+    border-radius: 2px;
+     transition: all linear .3s;
+}
+.third_content:hover{
+    box-shadow: 10px 10px 50px white;
+    transition: all linear .3s;
+}
+.third_content h3{
+        font-size: 36px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+    color: #fff;
+    margin-bottom: 16px;
+}
+.third_content img{
+    margin: 0px 12px;
+        transition: all linear .3s;
+}
+.third_content img:hover{
+    transform: scale(1.1);
+    transition: all linear .3s;
+}
+.third_content p{
+        font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+.menu_item{
+            background: url(../image/itembackground.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding: 90px 0px;
+}
+.bord{
+    position: relative;
+    width: 80%;
+    margin: auto;
+       margin-bottom: 15px;
+}
+
+.bord:after{
+    position: absolute;
+    content: "";
+    top: 40px;
+    left: 14px;
+    background-color: #e0d3a7;
+    width: 94%;
+    height: 1px;
+}
+.bord p{
+    margin-top: 15px
+}
+.left_item {
+    text-align: center;
+}
+.left_item h3{
+    font-size: 36px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+    color: #fff;
+    margin-bottom: 16px;
+    color: #cc9900;;
+}
+.left_item img{
+    margin-bottom: 20px;
+}
+.left_header h3{
+    font-size: 21px;
+      font-family: 'Yeseva One', cursive;
+    color: #cc9900;
+    text-align: left
+}
+.left_credit h3{
+        font-size: 21px;
+      font-family: 'Yeseva One', cursive;
+     color: #cc9900;
+  text-align: right;
+}
+.bord p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    color: #4c4c4c;
+    text-align: left;
+}
+.qq{
+    margin-top: 55px;
+}
+.review_content{
+background-color: rgba(0,0,0,.7);
+    width: 750px;
+    text-align: center;
+    padding: 60px 60px;
+    border-radius: 2px; 
+    margin: auto;
+       transition: all linear .3s;
+}
+.review_content:hover{
+    box-shadow: 10px 10px 50px white;
+    transition: all linear .3s;
+}
+.review_content h3{
+        font-size: 36px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+.review_content p{
+        font-size: 25px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    font-family: 'Gentium Book Basic', serif;
+}
+.blockquote p{
+position: relative;
+}
+.blockquote p:after{
+        position: absolute;
+    content: "\f10d";
+    font-weight: 900;
+    font-family: "Font Awesome 5 free";
+    top: 0px;
+    left: -30px;
+    color: #a2a4a2;
+
+}
+.review{
+    background: url(../image/banner03.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding: 100px 0px;
+}
+.blockquote-footer{
+    color: white;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.right_service{
+
+    width: 560px;
+    text-align: center;
+    border-radius: 2px;
+  margin: auto;
+    
+}
+.right_service h3{
+        font-size: 36px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 400;
+    color: #cc9900;
+    margin-bottom: 16px;
+}
+
+.right_service p{
+        font-size: 16px;
+    font-weight: 400;
+    color: #4c4c4c;
+    margin-top: 20px;
+    padding: 0px 50px;
+}
+.form_main{
+    padding-top: 60px;
+  margin-left: 40px;
+}
+.form_main input{
+ margin-bottom: 20px;
+ padding: 5px 25px;
+}
+.form_main label{
+  font-size: 16px;
+    color: #c9a131;
+       font-family: 'Yeseva One', cursive;
+
+}
+.form_main input::placeholder{
+    font-size: 18px;
+    color: #7c7c7c;
+    font-style: italic;
+}
+input[type="date" i]{
+    font-size:16px;
+    color:#7c7c7c;
+     font-style: italic;
+}
+form a{
+    background-color: yellow;
+    padding: 14px 75px;
+border-radius: 5px;
+    background-color:#c9a131;
+    color: white;
+    font-size: 18px;
+    
+}
+form span{
+    
+    display: block;
+      
+    margin:0px 28%;
+          margin-top: 40px;
+}
+.contact_us{
+       background: url(../image/banner04.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    padding: 100px 0px;
+}
+footer{
+    background-color: #191919;
+    padding: 70px 0px;
+}
+.common{
+    text-align: center;
+}
+.common h4{
+    color:#fefefe;
+}
+.common p{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 20px
+}
+.common img{
+    margin: 16px 0px;
+}
+.common ul{
+    display: inline-flex;
+    margin-top: 10px;
+}
+.common ul li{
+    margin: 0px 7px;
+}
+.common ul li a{
+    font-size: 30px;
+    color: white;
+}
+.common h4:hover{
+    color: #c9a131;
+}
+.common ul li:nth-child(1):hover a{
+    color: #002E82;
+}
+.common ul li:nth-child(2):hover a{
+    color: yellow;
+}
+.common ul li:nth-child(3):hover a{
+    color: #F75C00;
+}
+.common ul li:nth-child(4):hover a{
+    color: #006FCF;
+}
+.social ul li:nth-child(1):hover a{
+    color: #2563AC;
+}
+.social ul li:nth-child(2):hover a{
+    color: #3A5795;
+}
+.social ul li:nth-child(3):hover a{
+    color: #62CBF7;
+}
+.social ul li:nth-child(4):hover a{
+    color: #105BF2;
+}
