@@ -1,1 +1,746 @@
 
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        font-size: 14px;
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3px;
+    }
+
+    .navbar-nav .nav-item .nav-link.active {
+        color: white;
+        font-weight: bold;
+         
+    }
+
+    .navbar-light .navbar-toggler {
+
+
+    }
+    .navbar-toggler-icon{
+  color: white;
+        border-radius: 5px;
+     
+    }
+
+
+    .third_content,.right_service{
+            width: 100%;
+            padding-top: 60px;
+    }
+    .third_content{
+        padding: 0px;
+    }
+      .third_content{
+    padding: 40px 12px;
+    }
+    .review_content {
+    width: 100%;
+        padding: 40px 30px;
+        
+    }
+.navbar-toggler{
+    color: white;
+}
+.text_content{
+    width: 100%;
+}        
+.text_content h1{
+    font-size: 48px;
+}
+
+
+.text_content .colors{
+     background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin: 0px 15px;
+    border: 1px solid #eae2c3;
+    margin-top: 80px;
+    display: inline-block;
+    border:none;
+}
+
+.menu {
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+.third_content .whyimg{
+    width: 120px;
+    padding: 15px 0px;
+        
+}
+    .third_content h3 {
+    font-size: 31px;
+    }
+    .left_credit h3 {
+    font-size: 18px;
+    }
+    .bord {
+    position: relative;
+    width: 100%
+    }
+    .review_content h3 {
+    font-size: 31px;
+    }
+    .review_content p {
+    font-size: 20px
+    }
+    
+    .right_service p{
+        padding: 0px;
+    }
+
+    .form_main {
+    padding-top: 60px;
+     margin-left: 0px;
+    text-align: center;
+    }
+
+    form a {
+    padding: 14px 24px;
+    }
+
+    .form_main label{
+        display: block;
+        line-height: 0px;
+        text-align: left;
+    }
+    .form_main input {
+        width: 100%;
+    }
+    .padding_need{
+     padding: 40px 0px;   
+    }
+    .greek:before {
+    position: absolute;
+    content: "Special";
+    top: -145px;
+    left: 236px;
+    bottom: 0px;
+    right: 0px;
+    width: 20%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+
+}
+ 
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        font-size: 14px;
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3px;
+    }
+
+    .navbar-nav .nav-item .nav-link.active {
+        color: white;
+        font-weight: bold;
+         
+    }
+
+    .navbar-toggler-icon{
+    color: white;
+        border-radius: 5px;
+     
+    }
+
+
+    .third_content,.right_service{
+            width: 100%;
+        padding-top: 70px;
+    }
+    .third_content{
+        padding: 0px;
+    }
+      .third_content{
+    padding: 40px 12px;
+    }
+    .review_content {
+    width: 100%;
+        padding: 40px 30px;
+        
+    }
+.navbar-toggler{
+    color: white;
+}
+.text_content{
+    width: 100%;
+}        
+.text_content h1{
+    font-size: 52px;
+}
+
+
+.text_content .colors{
+     background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin: 0px 15px;
+    border: 1px solid #eae2c3;
+    margin-top: 80px;
+    display: inline-block;
+    border:none;
+}
+
+.menu {
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+.third_content .whyimg{
+    width: 120px;
+    padding: 15px 0px;
+        
+}
+    .third_content h3 {
+    font-size: 31px;
+    }
+    .left_credit h3 {
+    font-size: 18px;
+    }
+    .bord {
+    position: relative;
+    width: 100%
+    }
+    .review_content h3 {
+    font-size: 31px;
+    }
+    .review_content p {
+    font-size: 20px
+    }
+    
+    .right_service p{
+        padding: 0px;
+    }
+
+    .form_main {
+    padding-top: 60px;
+     margin-left: 0px;
+    text-align: center;
+    }
+
+    form a {
+    padding: 14px 24px;
+    }
+
+    .form_main label{
+        display: block;
+        line-height: 0px;
+        text-align: left;
+    }
+    .form_main input {
+        width: 100%;
+    }
+    .padding_need{
+     padding: 40px 0px;   
+    }
+    
+    .greek:before {
+    position: absolute;
+    content: "Special";
+    top: -121px;
+    left: 428px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+}
+
+ 
+    
+   
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+        
+
+.navbar-nav .nav-item .nav-link {
+        text-align: center;
+        font-size: 14px;
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3px;
+    }
+
+    .navbar-nav .nav-item .nav-link.active {
+        color: white;
+        font-weight: bold;
+         
+    }
+
+    .navbar-toggler-icon{
+    color: white;
+        border-radius: 5px;
+     
+    }
+
+
+    .third_content,.right_service{
+            width: 100%;
+        padding-top: 70px;
+    }
+    .third_content{
+        padding: 0px;
+    }
+      .third_content{
+    padding: 40px 12px;
+    }
+    .review_content {
+    width: 100%;
+        padding: 40px 30px;
+        
+    }
+.navbar-toggler{
+    color: white;
+}
+.text_content{
+    width: 100%;
+}        
+.text_content h1{
+    font-size: 52px;
+}
+
+
+.text_content .colors{
+     background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin: 0px 15px;
+    border: 1px solid #eae2c3;
+    margin-top: 80px;
+    display: inline-block;
+    border:none;
+}
+
+.menu {
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+
+.third_content .whyimg {
+    width: 90px;
+    padding: 15px 0px;
+    margin: 0px 5px;
+        
+}
+    .third_content h3 {
+    font-size: 31px;
+    }
+    .left_credit h3 {
+    font-size: 18px;
+    }
+    .bord {
+    position: relative;
+    width: 100%
+    }
+    .review_content h3 {
+    font-size: 31px;
+    }
+    .review_content p {
+    font-size: 20px
+    }
+    
+    .right_service p{
+        padding: 0px;
+    }
+
+    .form_main {
+    padding-top: 60px;
+     margin-left: 0px;
+    text-align: center;
+    }
+
+    form a {
+    padding: 14px 24px;
+    }
+
+    .form_main label{
+        display: block;
+        line-height: 0px;
+        text-align: left;
+    }
+    .form_main input {
+        width: 100%;
+    }
+    .common p {
+    color: #ffffff;
+    font-size: 15px
+    }
+ 
+
+}
+    
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        font-size: 16px;
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3px;
+            padding: 10px 18px;
+    }
+    .navbar-nav .nav-item .icon{
+    padding: 10px 5px;
+    color:#dab33e;
+}
+
+    .navbar-nav .nav-item .nav-link.active {
+        color: white;
+        font-weight: bold;
+         
+    }
+
+    .navbar-toggler-icon{
+    color: white;
+        border-radius: 5px;
+     
+    }
+
+
+    .third_content,.right_service{
+            width: 100%;
+    }
+    .third_content{
+        padding: 0px;
+    }
+      .third_content{
+    padding: 40px 12px;
+    }
+    .review_content {
+    width: 100%;
+        padding: 40px 30px;
+        
+    }
+.navbar-toggler{
+    color: white;
+}
+.text_content{
+    width: 100%;
+}        
+.text_content h1{
+    font-size: 70px;
+}
+
+
+.text_content .colors{
+     background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin: 0px 15px;
+    border: 1px solid #eae2c3;
+    margin-top: 80px;
+    display: inline-block;
+    border:none;
+}
+
+.menu {
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+
+.third_content .whyimg {
+    width: 90px;
+    padding: 15px 0px;
+    margin: 0px 5px;
+        
+}
+    .third_content h3 {
+    font-size: 31px;
+    }
+    .left_credit h3 {
+    font-size: 18px;
+    }
+    .bord {
+    position: relative;
+    width: 100%
+    }
+    .review_content h3 {
+    font-size: 31px;
+    }
+    .review_content p {
+    font-size: 20px
+    }
+    
+    .right_service p{
+        padding: 0px;
+    }
+
+    .form_main {
+    padding-top: 60px;
+     margin-left: 0px;
+    text-align: center;
+    }
+
+    form a {
+    padding: 14px 24px;
+    }
+
+    .form_main label{
+        display: block;
+        line-height: 0px;
+        text-align: left;
+    }
+    .form_main input {
+        width: 100%;
+    }
+    .common p {
+    color: #ffffff;
+    font-size: 15px
+    }
+    .third_content, .right_service{
+        padding-top: 70px;
+    }
+    .right_service p {
+    padding: 0px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+    }
+    .greek:before {
+    position: absolute;
+    content: "Special";
+    top: -117px;
+    left: 378px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+
+}
+    
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+ .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        font-size: 16px;
+        color: white;
+        border-radius: 5px;
+        margin-bottom: 3px;
+            padding: 10px 18px;
+    }
+    .navbar-nav .nav-item .icon{
+    padding: 10px 5px;
+    color:#dab33e;
+}
+
+    .navbar-nav .nav-item .nav-link.active {
+        color: white;
+        font-weight: bold;
+         
+    }
+
+    .navbar-toggler-icon{
+    color: white;
+        border-radius: 5px;
+     
+    }
+
+
+    .third_content,.right_service{
+            width: 100%;
+    }
+    .third_content{
+        padding: 0px;
+    }
+      .third_content{
+    padding: 40px 12px;
+    }
+    .review_content {
+    width: 100%;
+        padding: 40px 30px;
+        
+    }
+.navbar-toggler{
+    color: white;
+}
+.text_content{
+    width: 100%;
+}        
+.text_content h1{
+    font-size: 70px;
+}
+
+
+.text_content .colors{
+     background-color: rgba(255, 255, 255, .3);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 17px 50px;
+    color: white;
+    margin: 0px 15px;
+    border: 1px solid #eae2c3;
+    margin-top: 80px;
+    display: inline-block;
+    border:none;
+}
+
+.menu {
+    background: url(../image/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+
+.third_content .whyimg {
+    width: 90px;
+    padding: 15px 0px;
+    margin: 0px 5px;
+        
+}
+    .third_content h3 {
+    font-size: 31px;
+    }
+    .left_credit h3 {
+    font-size: 18px;
+    }
+    .bord {
+    position: relative;
+    width: 100%
+    }
+    .review_content h3 {
+    font-size: 31px;
+    }
+    .review_content p {
+    font-size: 20px
+    }
+    
+    .right_service p{
+        padding: 0px;
+    }
+
+    .form_main {
+    padding-top: 60px;
+     margin-left: 0px;
+    text-align: center;
+    }
+
+    form a {
+    padding: 14px 24px;
+    }
+
+    .form_main label{
+        display: block;
+        line-height: 0px;
+        text-align: left;
+    }
+    .form_main input {
+        width: 100%;
+    }
+    .common p {
+    color: #ffffff;
+    font-size: 15px
+    }
+    .third_content, .right_service{
+        padding-top: 70px;
+    }
+    .right_service p {
+    padding: 0px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+    }
+    .form_main {
+    padding-top: 30px
+    }
+    .greek:before {
+    position: absolute;
+    content: "Special";
+    top: -145px;
+    left: 278px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+  
+
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+       .margin_top{
+        padding-top: 30px;
+    }
+        form span {
+        display: block;
+        margin: 0px 25%;
+        margin-top: 30px;
+           }
+     .form_main {
+        padding-top: 30px;
+    }
+    .greek:before{
+position: absolute;
+    content: "Special";
+    top: -121px;
+    left: 362px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+}
+@media (min-width: 1400px) {
+    .greek:before {
+    position: absolute;
+    content: "Special";
+    top: -122px;
+    left: 421px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
+}
+}
