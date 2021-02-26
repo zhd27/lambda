@@ -99,6 +99,7 @@ a,a:hover{
 .text_image{
     text-align: center;
     margin-top: 40px;
+
 }
 .text_image p{
     font-size: 16px;
@@ -147,6 +148,7 @@ background-color: rgba(0,0,0,.5);
     padding: 60px 60px;
     border-radius: 2px;
      transition: all linear .3s;
+    margin: auto;
 }
 .third_content:hover{
     box-shadow: 10px 10px 50px white;
@@ -186,16 +188,31 @@ background-color: rgba(0,0,0,.5);
     width: 80%;
     margin: auto;
        margin-bottom: 15px;
+    padding: 10px 0px
 }
 
 .bord:after{
     position: absolute;
     content: "";
-    top: 40px;
+    top: 47px;
     left: 14px;
     background-color: #e0d3a7;
     width: 94%;
     height: 1px;
+}
+.greek:before{
+position: absolute;
+    content: "Special";
+    top: -117px;
+    left: 362px;
+    bottom: 0px;
+    right: 0px;
+    width: 17%;
+    height: 25px;
+    color: white;
+    margin: auto;
+    background-color: #d7bc6e;
+    text-align: center;
 }
 .bord p{
     margin-top: 15px
@@ -232,9 +249,14 @@ background-color: rgba(0,0,0,.5);
     margin-top: 30px;
     color: #4c4c4c;
     text-align: left;
+    margin-bottom: 5px;
 }
 .qq{
     margin-top: 55px;
+}
+.greek{
+    border: 1px solid #e8e0c7;
+    padding: 5px 0px;
 }
 .review_content{
 background-color: rgba(0,0,0,.7);
@@ -350,7 +372,7 @@ form span{
     
     display: block;
       
-    margin:0px 28%;
+    margin:0px 25%;
           margin-top: 40px;
 }
 .contact_us{
